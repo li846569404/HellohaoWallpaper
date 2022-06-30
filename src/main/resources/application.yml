@@ -1,0 +1,8 @@
+﻿server:
+  port: 8089
+spring:
+  thymeleaf:
+    cache: false
+    mode: LEGACYHTML5
+webName: 壁纸-Siouna
+weblinks: <li><a href="http://siouna.com" class="icon fa-dribbble"><span class="label">Siouna</span></a></li>
